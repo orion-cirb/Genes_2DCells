@@ -44,11 +44,7 @@ import net.imglib2.util.Pair;
 import net.imglib2.util.ValuePair;
 import net.imglib2.view.Views;
 
-@Plugin(type = Command.class, label = "Orion_StarDist2D", menu = {
-        @Menu(label = MenuConstants.PLUGINS_LABEL, weight = MenuConstants.PLUGINS_WEIGHT, mnemonic = MenuConstants.PLUGINS_MNEMONIC),
-        @Menu(label = "StarDist"),
-        @Menu(label = "StarDist2D", weight = 1)
-})
+
 public class Orion_StarDist2D extends Orion_StarDist2DBase implements Command {
     
     

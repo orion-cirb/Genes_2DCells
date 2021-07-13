@@ -15,7 +15,6 @@ import ij.ImagePlus;
 import ij.gui.PointRoi;
 import ij.gui.PolygonRoi;
 import ij.gui.Roi;
-import ij.plugin.Duplicator;
 import ij.plugin.frame.RoiManager;
 import ij.process.ImageProcessor;
 import net.imagej.Dataset;

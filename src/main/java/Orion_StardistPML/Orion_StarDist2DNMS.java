@@ -27,12 +27,7 @@ import net.imglib2.RandomAccessibleInterval;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.view.Views;
 
-@Plugin(type = Command.class, label = "StarDist 2D NMS", menu = {
-        @Menu(label = MenuConstants.PLUGINS_LABEL, weight = MenuConstants.PLUGINS_WEIGHT, mnemonic = MenuConstants.PLUGINS_MNEMONIC),
-        @Menu(label = "StarDist"),
-        @Menu(label = "Other"),
-        @Menu(label = "StarDist 2D NMS (postprocessing only)", weight = 2)
-})
+
 public class Orion_StarDist2DNMS extends Orion_StarDist2DBase implements Command {
 
     @Parameter(label=Orion_Opt.PROB_IMAGE)
