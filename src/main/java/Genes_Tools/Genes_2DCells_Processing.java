@@ -34,7 +34,7 @@ import mcib3d.image3d.ImageLabeller;
 import org.apache.commons.io.FilenameUtils;
 import net.haesleinhuepf.clij.clearcl.ClearCLBuffer;
 import net.haesleinhuepf.clij2.CLIJ2;
-import Orion_StardistPML.Orion_StarDist2D;
+import Orion_Stardist.Orion_StarDist2D;
 import net.imglib2.RandomAccessibleInterval;
 import net.imglib2.img.Img;
 import net.imglib2.img.display.imagej.ImageJFunctions;

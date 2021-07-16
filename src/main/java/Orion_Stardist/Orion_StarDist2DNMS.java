@@ -1,4 +1,4 @@
-package Orion_StardistPML;
+package Orion_Stardist;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -8,10 +8,7 @@ import java.util.stream.IntStream;
 import org.scijava.ItemIO;
 import org.scijava.ItemVisibility;
 import org.scijava.command.Command;
-import org.scijava.menu.MenuConstants;
-import org.scijava.plugin.Menu;
 import org.scijava.plugin.Parameter;
-import org.scijava.plugin.Plugin;
 import org.scijava.widget.Button;
 import org.scijava.widget.ChoiceWidget;
 import org.scijava.widget.NumberWidget;

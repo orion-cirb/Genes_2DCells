@@ -1,4 +1,4 @@
-package Orion_StardistPML;
+package Orion_Stardist;
 
 import java.io.File;
 import java.io.IOException;

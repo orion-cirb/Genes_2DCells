@@ -1,4 +1,4 @@
-package Orion_StardistPML;
+package Orion_Stardist;
 
 //import static de.csbdresden.stardist.Orion_StarDist2DModel.MODELS;
 //import static de.csbdresden.stardist.Orion_StarDist2DModel.MODEL_DSB2018_HEAVY_AUGMENTATION;
@@ -21,10 +21,7 @@ import org.scijava.ItemIO;
 import org.scijava.ItemVisibility;
 import org.scijava.command.Command;
 import org.scijava.command.CommandModule;
-import org.scijava.menu.MenuConstants;
-import org.scijava.plugin.Menu;
 import org.scijava.plugin.Parameter;
-import org.scijava.plugin.Plugin;
 import org.scijava.widget.Button;
 import org.scijava.widget.ChoiceWidget;
 import org.scijava.widget.NumberWidget;
